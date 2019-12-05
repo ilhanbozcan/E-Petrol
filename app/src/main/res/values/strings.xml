@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Petrol</string>
+    <string-array name="FuelType">
+        <item>Gas</item>
+        <item>Diesel</item>
+        <item>Fuel</item>
+    </string-array>
+    <string-array name="CarType">
+        <item>Renoult</item>
+        <item>Fiat</item>
+        <item>Mercedes</item>
+        <item>Ford</item>
+        <item>Mazda</item>
+        <item>Peugeot</item>
+    </string-array>
+</resources>
