@@ -47,7 +47,7 @@
         >
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/login_mail"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -56,7 +56,7 @@
            />
 
         <EditText
-            android:id="@+id/sifre"
+            android:id="@+id/login_pass"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:ems="10"
@@ -65,22 +65,22 @@
             />
 
         <Button
-            android:id="@+id/giris"
+            android:id="@+id/login_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Giriş Yap"
+            android:text="Login"
             android:layout_gravity="center"
             />
 
         <Button
-            android:id="@+id/kayit"
+            android:id="@+id/sign_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Kayit"
+            android:text="Sign In"
             android:layout_gravity="center"
             />
         <Button
-            android:id="@+id/kayitekrani"
+            android:id="@+id/noaccount_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@+id/girisyap"
@@ -89,7 +89,7 @@
             android:layout_centerHorizontal="true"
             android:background="@android:color/transparent"
             android:textColor="#727272"
-            android:text="Hesap açmadan devam edin..." />
+            android:text="Continue without login..." />
     </LinearLayout>
 
 

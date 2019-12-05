@@ -1,24 +1,31 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6baa1ce929cb6078a68a5b03b3bd41df\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\59d1e99d856d277be6fac00a184ad0a4\firebase-analytics-17.2.0\AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7486e7b29120c3ce52d033d841b80346\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\636aba860ef07bf2f219a332876c94b0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\75469dbbc376f323594967ceb5432a81\firebase-auth-interop-19.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fa647a9f1e1663c9a1a98c4c18c8ffff\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\aa2ad13971d38900612758e2f62a2fd8\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:17:1-40:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:17:1-27:12
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\431b31bd35724ee3b667b58d599d8117\play-services-measurement-base-17.2.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:17:1-47:12
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\313c8cab0ccb16f540d1ac3134a9a676\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
-MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:2:1-19:12
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ffd19b2d2d0dbf275397ab9da3990916\firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d7f99beb2755cd71e3430916d69f3163\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\992e07f3a550705758f5a10686cf7189\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
@@ -38,60 +45,76 @@ MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Do
 MERGED from [androidx.core:core:1.0.1] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\93d7ae8bc00cd79d08e935d76825e97b\core-1.0.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\43c49b12233cfc1bc27316e9746a37f4\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a7ed0ca913094dcd572a2a491ee77296\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\c77a178d8e6cabd2550c3ddedbad7647\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\43face5bbfcb9a9521bfe7a06757c249\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e4a94d2054024c8be95b68226af78a53\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e1d01877c650a22b3c257891754df4cc\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\34bd167e41796762d187a04a2472565c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\cfc7a075599825242ccb3bf9049138d1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\942ae5bb408d75da4f7f89b1ab4a5794\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\3f7255e5c39577612d42757c6a1a973c\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\0694e27135a967a4619b8381997d15ff\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8e5501d68d01dce42031dc1b525c12ab\firebase-database-collection-17.0.0\AndroidManifest.xml:2:1-7:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
+INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
 	package
 		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:3:5-35
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-42:12
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:10:22-76
 application
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:12:5-40:19
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\59d1e99d856d277be6fac00a184ad0a4\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\59d1e99d856d277be6fac00a184ad0a4\firebase-analytics-17.2.0\AndroidManifest.xml:7:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7486e7b29120c3ce52d033d841b80346\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7486e7b29120c3ce52d033d841b80346\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:28:5-53:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:26:5-34:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\636aba860ef07bf2f219a332876c94b0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\636aba860ef07bf2f219a332876c94b0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\75469dbbc376f323594967ceb5432a81\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\75469dbbc376f323594967ceb5432a81\firebase-auth-interop-19.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:28:5-38:19
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\431b31bd35724ee3b667b58d599d8117\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\431b31bd35724ee3b667b58d599d8117\play-services-measurement-base-17.2.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:28:5-45:19
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\313c8cab0ccb16f540d1ac3134a9a676\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\313c8cab0ccb16f540d1ac3134a9a676\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:11:5-17:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ffd19b2d2d0dbf275397ab9da3990916\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ffd19b2d2d0dbf275397ab9da3990916\firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d7f99beb2755cd71e3430916d69f3163\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
@@ -105,35 +128,41 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Do
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\93d7ae8bc00cd79d08e935d76825e97b\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:17:9-35
 	android:label
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:15:9-41
 	android:roundIcon
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:16:9-54
 	android:icon
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:18:9-40
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:29:13-58
 activity#com.example.e_petrol.KayitOl
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:12:9-45
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:32:9-45
 	android:name
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:12:19-42
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:32:19-42
 activity#com.example.e_petrol.MainActivity
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:13:9-19:20
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:33:9-39:20
 	android:name
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:13:19-47
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:33:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:34:13-38:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:37:17-77
 	android:name
-		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:37:27-74
 uses-sdk
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
@@ -144,30 +173,44 @@ MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradl
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\59d1e99d856d277be6fac00a184ad0a4\firebase-analytics-17.2.0\AndroidManifest.xml:5:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7486e7b29120c3ce52d033d841b80346\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7486e7b29120c3ce52d033d841b80346\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\636aba860ef07bf2f219a332876c94b0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\636aba860ef07bf2f219a332876c94b0\play-services-measurement-sdk-17.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\75469dbbc376f323594967ceb5432a81\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\75469dbbc376f323594967ceb5432a81\firebase-auth-interop-19.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fa647a9f1e1663c9a1a98c4c18c8ffff\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fa647a9f1e1663c9a1a98c4c18c8ffff\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\aa2ad13971d38900612758e2f62a2fd8\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\aa2ad13971d38900612758e2f62a2fd8\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\431b31bd35724ee3b667b58d599d8117\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-measurement-base:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\431b31bd35724ee3b667b58d599d8117\play-services-measurement-base-17.2.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\313c8cab0ccb16f540d1ac3134a9a676\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\313c8cab0ccb16f540d1ac3134a9a676\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\5a8936eaac73f4db15dafeeb15844fce\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\dffe7cebfa4e6032ec3fea966723cfe7\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ffd19b2d2d0dbf275397ab9da3990916\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ffd19b2d2d0dbf275397ab9da3990916\firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d7f99beb2755cd71e3430916d69f3163\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
@@ -206,12 +249,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Do
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\43c49b12233cfc1bc27316e9746a37f4\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a7ed0ca913094dcd572a2a491ee77296\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a7ed0ca913094dcd572a2a491ee77296\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\c77a178d8e6cabd2550c3ddedbad7647\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\c77a178d8e6cabd2550c3ddedbad7647\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\43face5bbfcb9a9521bfe7a06757c249\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\43face5bbfcb9a9521bfe7a06757c249\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e4a94d2054024c8be95b68226af78a53\documentfile-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e4a94d2054024c8be95b68226af78a53\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\37caa00d68abfda0e932890140749490\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e1d01877c650a22b3c257891754df4cc\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.print:print:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e1d01877c650a22b3c257891754df4cc\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\34bd167e41796762d187a04a2472565c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
@@ -224,6 +269,8 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dora\.gradle\caches
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\3f7255e5c39577612d42757c6a1a973c\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\0694e27135a967a4619b8381997d15ff\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\0694e27135a967a4619b8381997d15ff\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8e5501d68d01dce42031dc1b525c12ab\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8e5501d68d01dce42031dc1b525c12ab\firebase-database-collection-17.0.0\AndroidManifest.xml:5:5-44
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -234,40 +281,124 @@ INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
-uses-permission#android.permission.INTERNET
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:23:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:24:5-79
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:22:5-79
 	android:name
-		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:24:22-76
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f1e8a552b6270f33a49ec3b6de09bbea\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:35:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\ac423dda072b85dcb25a0a3f1e4bbf2d\firebase-auth-19.2.0\AndroidManifest.xml:37:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\11eea3596166b118c0fb2c94b1c6ff94\firebase-database-19.2.0\AndroidManifest.xml:33:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\a30df765310c266cd6d8e7c6c14c48ac\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4c2f7d8fe2d283e9c40c05bac9919ed6\play-services-measurement-impl-17.2.0\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\e55b21d1a143234c075f5c2b639fdcab\play-services-measurement-sdk-api-17.2.0\AndroidManifest.xml:25:5-68
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:24:5-68
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:25:22-65
 uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
@@ -320,14 +451,6 @@ ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Do
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:52:13-69
 	android:name
 		ADDED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fdc70b0b7960929853ff7c757beb7d4f\play-services-measurement-17.2.0\AndroidManifest.xml:49:13-87
-service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:27:9-33:19
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
-MERGED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:29:9-35:19
-	android:exported
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:29:13-37
-	android:name
-		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:28:13-84
 meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
 ADDED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\09e58a4d133ca5961b1e6c775805be53\play-services-measurement-api-17.2.0\AndroidManifest.xml:30:13-32:85
 	android:value
@@ -358,24 +481,24 @@ action#com.google.android.c2dm.intent.RECEIVE
 ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:42:17-81
 	android:name
 		ADDED from [com.google.firebase:firebase-iid:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\957b0793de52737dcb2d552fb13bbbac\firebase-iid-19.0.0\AndroidManifest.xml:42:25-78
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:12:9-16:39
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:14:13-72
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:15:13-37
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:16:13-36
-	android:name
-		ADDED from [com.google.firebase:firebase-common:19.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\daa9c6651247b129963b4bac8e5dd40c\firebase-common-19.0.0\AndroidManifest.xml:13:13-77
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:25:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:26:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\61050d192d7b40096effddbc75f65a23\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8eb866707b690ca0a19e0e3fe5cc8413\play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7a9e9d6eb7eb69bcca4eec3f21eeb978\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
 meta-data#com.google.android.gms.version
 ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\992e07f3a550705758f5a10686cf7189\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
 	android:value
