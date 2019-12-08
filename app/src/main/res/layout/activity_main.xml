@@ -53,7 +53,7 @@
             android:ems="10"
             android:inputType="textPersonName"
             android:hint="example@gmail.com"
-           />
+            />
 
         <EditText
             android:id="@+id/login_pass"

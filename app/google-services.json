@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "887474028792",
-    "firebase_url": "https://e-petrol-a9b2e.firebaseio.com",
-    "project_id": "e-petrol-a9b2e",
-    "storage_bucket": "e-petrol-a9b2e.appspot.com"
+    "project_number": "36677875082",
+    "firebase_url": "https://e-petrol-e0751.firebaseio.com",
+    "project_id": "e-petrol-e0751",
+    "storage_bucket": "e-petrol-e0751.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:887474028792:android:c0b4f77d37430542663b0d",
+        "mobilesdk_app_id": "1:36677875082:android:f345c7141d1cbc2a0b4473",
         "android_client_info": {
           "package_name": "com.example.e_petrol"
         }
       },
       "oauth_client": [
         {
-          "client_id": "887474028792-oeipv85c23jmgsve90fb2edetnre2g93.apps.googleusercontent.com",
+          "client_id": "36677875082-ieb7i9d1s67b01kohkjdurdvl9nee36g.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA4erg0vXkblSLw2dxoj4G9L3jkfZ-fw8g"
+          "current_key": "AIzaSyCqndzE8fuQclfbPPZFyDdUSsSNqvweu_E"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "887474028792-oeipv85c23jmgsve90fb2edetnre2g93.apps.googleusercontent.com",
+              "client_id": "36677875082-ieb7i9d1s67b01kohkjdurdvl9nee36g.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

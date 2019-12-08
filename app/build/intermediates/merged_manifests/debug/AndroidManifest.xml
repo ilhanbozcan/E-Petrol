@@ -50,7 +50,12 @@
             android:name="com.google.android.geo.API_KEY"
             android:value="@string/google_maps_key" />
 
+        <activity
+            android:name="com.example.e_petrol.MapsActivity"
+            android:label="@string/title_activity_maps" />
+        <activity android:name="com.example.e_petrol.History" />
         <activity android:name="com.example.e_petrol.KayitOl" />
+        <activity android:name="com.example.e_petrol.MainPage" />
         <activity android:name="com.example.e_petrol.MainActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -88,20 +93,6 @@
                 android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
-
-        <activity
-            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-            android:excludeFromRecents="true"
-            android:exported="false"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-        <!--
-            Service handling Google Sign-In user revocation. For apps that do not integrate with
-            Google Sign-In, this service will never be started.
-        -->
-        <service
-            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-            android:exported="true"
-            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"

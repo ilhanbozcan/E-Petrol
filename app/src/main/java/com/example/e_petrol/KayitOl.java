@@ -1,8 +1,5 @@
 package com.example.e_petrol;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -12,6 +9,9 @@ import android.widget.Button;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -23,17 +23,20 @@ import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 
 public class KayitOl extends AppCompatActivity {
-    Spinner fuel,car;
+    Spinner fuel,car,favfuel;
     Button back,create_user;
     TextView namesurname,phone,mail,sign_pass;
     private FirebaseAuth auth;
     FirebaseDatabase database = FirebaseDatabase.getInstance();
     DatabaseReference Ref = database.getReference();
+    final FirebaseUser userdisplay = FirebaseAuth.getInstance().getCurrentUser();
 
-    public void CreateUser(String adsoyad,String phone,String mail,String fuel,String car){
-        Users kullanici=new Users(adsoyad,phone,mail,fuel,car);
-        Ref.child("Users").setValue(kullanici);
+    public void createUser(String namesurname, String phone, String mail,String fueltype, String fav, String cartype){
+        Users user=new Users(namesurname,phone,mail,fueltype,fav,cartype);
+        Ref.child("Users").child(namesurname).child("information").setValue(user);
+
     }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -45,6 +48,7 @@ public class KayitOl extends AppCompatActivity {
         sign_pass=findViewById(R.id.sign_pass);
         car=findViewById(R.id.cartype);
         fuel=findViewById(R.id.fueltype);
+        favfuel=findViewById(R.id.sign_fav);
         back=findViewById(R.id.back);
         create_user=findViewById(R.id.create_user);
         ArrayAdapter adapter1=ArrayAdapter.createFromResource(this,R.array.FuelType,
@@ -53,6 +57,10 @@ public class KayitOl extends AppCompatActivity {
         ArrayAdapter adapter=ArrayAdapter.createFromResource(this,R.array.CarType,
                 android.R.layout.simple_spinner_item);
         car.setAdapter(adapter);
+        ArrayAdapter adapter2=ArrayAdapter.createFromResource(this,R.array.FuelMark,
+                android.R.layout.simple_spinner_item);
+        favfuel.setAdapter(adapter2);
+
 
         back.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -69,6 +77,7 @@ public class KayitOl extends AppCompatActivity {
                 final String comemail=mail.getText().toString();
                 final String comepass=sign_pass.getText().toString();
                 final String comecar=car.getSelectedItem().toString();
+                final String comefav=favfuel.getSelectedItem().toString();
                 final String comefuel=fuel.getSelectedItem().toString();
 
                 if(TextUtils.isEmpty(comename)){
@@ -102,12 +111,14 @@ public class KayitOl extends AppCompatActivity {
                                     Toast.LENGTH_SHORT).show();
                         }
                         else{
-                            Toast.makeText(KayitOl.this, "Sing in succesfully",
-                                    Toast.LENGTH_SHORT).show();
+
+                            createUser(comename,comephone,comemail,comefuel,comefav,comecar);
                             FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
                             UserProfileChangeRequest profileUpdates = new UserProfileChangeRequest.Builder()
                                     .setDisplayName(comename)
                                     .build();
+                            Toast.makeText(KayitOl.this, "Sing in succesfully" +userdisplay.getDisplayName(),
+                                    Toast.LENGTH_SHORT).show();
                             user.updateProfile(profileUpdates)
                                     .addOnCompleteListener(new OnCompleteListener<Void>() {
                                         @Override

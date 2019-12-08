@@ -1,17 +1,19 @@
 <resources>
     <string name="app_name">E-Petrol</string>
+    <string name="title_activity_maps">Map</string>
     <string-array name="FuelType">
         <item>Gas</item>
         <item>Diesel</item>
-        <item>Fuel</item>
+
     </string-array>
     <string-array name="CarType">
         <item>Renoult</item>
-        <item>Fiat</item>
         <item>Mercedes</item>
-        <item>Ford</item>
-        <item>Mazda</item>
-        <item>Peugeot</item>
+
     </string-array>
-    <string name="title_activity_maps">Map</string>
+    <string-array name="FuelMark">
+        <item>Opet</item>
+        <item>Petrol Ofisi</item>
+
+    </string-array>
 </resources>

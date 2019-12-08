@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">887474028792-oeipv85c23jmgsve90fb2edetnre2g93.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://e-petrol-a9b2e.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">887474028792</string>
-    <string name="google_api_key" translatable="false">AIzaSyA4erg0vXkblSLw2dxoj4G9L3jkfZ-fw8g</string>
-    <string name="google_app_id" translatable="false">1:887474028792:android:c0b4f77d37430542663b0d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA4erg0vXkblSLw2dxoj4G9L3jkfZ-fw8g</string>
-    <string name="google_storage_bucket" translatable="false">e-petrol-a9b2e.appspot.com</string>
-    <string name="project_id" translatable="false">e-petrol-a9b2e</string>
+    <string name="default_web_client_id" translatable="false">36677875082-ieb7i9d1s67b01kohkjdurdvl9nee36g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://e-petrol-e0751.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">36677875082</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqndzE8fuQclfbPPZFyDdUSsSNqvweu_E</string>
+    <string name="google_app_id" translatable="false">1:36677875082:android:f345c7141d1cbc2a0b4473</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqndzE8fuQclfbPPZFyDdUSsSNqvweu_E</string>
+    <string name="google_storage_bucket" translatable="false">e-petrol-e0751.appspot.com</string>
+    <string name="project_id" translatable="false">e-petrol-e0751</string>
 </resources>

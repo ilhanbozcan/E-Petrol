@@ -1,13 +1,26 @@
 package com.example.e_petrol;
 
 public class Users {
-    private String namesurname,phone,gmail,fuel,car;
-    public Users(String namesurname,String phone,String gmail,String fuel,String car ){
+    String namesurname,phone,mail,fueltype,favmark,cartype;
+
+    public Users(){
+
+    }
+    public Users(String namesurname, String phone, String mail, String fueltype,String fav, String cartype){
         this.namesurname=namesurname;
         this.phone=phone;
-        this.gmail=gmail;
-        this.fuel=fuel;
-        this.car=car;
+        this.mail=mail;
+        this.fueltype=fueltype;
+        this.cartype=cartype;
+        this.favmark=fav;
+    }
+
+    public String getFavmark() {
+        return favmark;
+    }
+
+    public void setFavmark(String favmark) {
+        this.favmark = favmark;
     }
 
     public String getNamesurname() {
@@ -26,27 +39,29 @@ public class Users {
         this.phone = phone;
     }
 
-    public String getGmail() {
-        return gmail;
+    public String getMail() {
+        return mail;
     }
 
-    public void setGmail(String gmail) {
-        this.gmail = gmail;
+    public void setMail(String mail) {
+        this.mail = mail;
     }
 
-    public String getFuel() {
-        return fuel;
+    public String getFueltype() {
+        return fueltype;
     }
 
-    public void setFuel(String fuel) {
-        this.fuel = fuel;
+    public void setFueltype(String fueltype) {
+        this.fueltype = fueltype;
     }
 
-    public String getCar() {
-        return car;
+    public String getCartype() {
+        return cartype;
     }
 
-    public void setCar(String car) {
-        this.car = car;
+    public void setCartype(String cartype) {
+        this.cartype = cartype;
     }
+
+
 }
