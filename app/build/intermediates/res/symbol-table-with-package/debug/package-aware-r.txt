@@ -726,8 +726,11 @@ drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_equalizer_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_person_black_24dp
+drawable ic_whatshot_black_24dp
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -906,6 +909,7 @@ id phone
 id price
 id progress_circular
 id progress_horizontal
+id push
 id radio
 id right
 id right_icon
@@ -1036,6 +1040,7 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+mipmap map_round
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

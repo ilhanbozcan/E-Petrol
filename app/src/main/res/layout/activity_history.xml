@@ -11,6 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
+
         app:layout_constraintTop_toTopOf="parent">
 
         <Button
@@ -43,6 +44,7 @@
 
 
     <LinearLayout
+        android:id="@+id/information"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
@@ -50,10 +52,14 @@
         >
 
         <TextView
+
             android:id="@+id/hello"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/ic_person_black_24dp"
             />
 
         <TextView
@@ -61,6 +67,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/ic_whatshot_black_24dp"
             />
 
         <TextView
@@ -68,7 +76,48 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:layout_marginTop="10dp"
+            android:drawableLeft="@drawable/ic_equalizer_black_24dp"
+
             />
+
+
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/add_history"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/information">
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Spinner
+                android:id="@+id/which_mark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+            </Spinner>
+
+            <EditText
+                android:id="@+id/liter_howmuch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="number" />
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/add_newhistory"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            >
+
+        </Button>
 
 
     </LinearLayout>
@@ -87,6 +136,12 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Profile" />
+        <Button
+            android:id="@+id/push"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Push" />
 
         <Button
             android:id="@+id/button6"

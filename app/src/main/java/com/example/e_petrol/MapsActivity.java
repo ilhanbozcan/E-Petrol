@@ -75,6 +75,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         adressList=geocoder.getFromLocationName(location,1);
 
                     } catch (IOException e) {
+                        System.out.println("Hata mesajı");
                         e.printStackTrace();
                     }
                     Address address=adressList.get(0);

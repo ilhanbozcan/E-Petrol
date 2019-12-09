@@ -111,6 +111,8 @@ public class KayitOl extends AppCompatActivity {
                                     Toast.LENGTH_SHORT).show();
                         }
                         else{
+                            startActivity(new Intent(KayitOl.this, MainActivity.class));
+                            finish();
 
                             createUser(comename,comephone,comemail,comefuel,comefav,comecar);
                             FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
@@ -129,8 +131,7 @@ public class KayitOl extends AppCompatActivity {
                                     });
 
 
-                            startActivity(new Intent(KayitOl.this, MainActivity.class));
-                            finish();
+
                         }
                     }
                 });

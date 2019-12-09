@@ -18,8 +18,9 @@ public class History extends AppCompatActivity {
     TextView hello,favfuel,avarage;
     FirebaseDatabase database=FirebaseDatabase.getInstance();
     final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
+    DatabaseReference read=database.getReference("Users").child(user.getDisplayName()).child("information");
 
-
+    int avrg=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,6 +29,28 @@ public class History extends AppCompatActivity {
         favfuel=findViewById(R.id.favfuel);
         avarage=findViewById(R.id.avarage);
         hello.setText("Hello "+user.getDisplayName());
+
+        avarage.setText("Avarage Fuel(per month) = "+avrg);
+
+        read.addListenerForSingleValueEvent(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                for(DataSnapshot dataSnapshot1:dataSnapshot.getChildren()){
+                    Users i=new Users();
+                    i=dataSnapshot.getValue(Users.class);
+                    favfuel.setText("Favourite Brand= "+i.getFavmark());
+                    System.out.println(i.getFavmark());
+
+                }
+            }
+
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
+
+
 
     }
 }
