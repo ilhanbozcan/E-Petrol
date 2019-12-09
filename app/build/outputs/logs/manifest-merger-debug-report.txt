@@ -4,12 +4,15 @@ ADDED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-47
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-47:12
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\96428469f492bdb60aab70aab8e3b98b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fbf6030c8a335ba97da810450e1d7f29\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7e3436da9029275b269844747e7fc325\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f5db0fe59483582db687dc50a37beb8c\AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\33cd8162a7e16edb2de3dee2d95bd51c\AndroidManifest.xml:17:1-38:12
 MERGED from [com.google.firebase:firebase-analytics:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\3a7c3007e23ad4c41d4a2e3189a227d4\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7df3f99c40cb801e39e06effac81b94a\AndroidManifest.xml:17:1-42:12
 MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d1aefe43c7b04322aa420f8b58e6e9b2\AndroidManifest.xml:15:1-38:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\791acd4ed1e6e6af172a4f6e39550155\AndroidManifest.xml:17:1-55:12
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4ac379de677f356a7d50924838cd590c\AndroidManifest.xml:17:1-36:12
 MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\bd12f8c9fa365ad3ceb8b152711a1980\AndroidManifest.xml:17:1-25:12
@@ -27,15 +30,14 @@ MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users
 MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\9f7368c2f055a7c734ef63485bd604b6\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6199f19441e277691e463a7753a63da6\AndroidManifest.xml:17:1-28:12
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\caf90814f0e9ed2c9ac68bbaa0e976c1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\2a2e7b2d4a56c8eeefb03f3897633486\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6b128571ef802acddf61424142767532\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\9ade90c6097bcc66aaf154b4659e6535\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.activity:activity:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d2c7c3bb62564ce2c4a3cec62c81bf53\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\db109db402b1e1460c8b04eff5f14658\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8ed3bc32c1b762692fd144c662187248\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.core:core:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\685d41f765186419b69de24335e0d738\AndroidManifest.xml:17:1-26:12
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\0c1e5b58a65dfd850b78a0e8a42e114c\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\3eb0bfd7cc266078a1c621d6cc723a32\AndroidManifest.xml:17:1-22:12
@@ -174,6 +176,10 @@ uses-sdk
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Dora\Desktop\EPetrol\app\src\main\AndroidManifest.xml
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\96428469f492bdb60aab70aab8e3b98b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\96428469f492bdb60aab70aab8e3b98b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fbf6030c8a335ba97da810450e1d7f29\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\fbf6030c8a335ba97da810450e1d7f29\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7e3436da9029275b269844747e7fc325\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7e3436da9029275b269844747e7fc325\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\f5db0fe59483582db687dc50a37beb8c\AndroidManifest.xml:5:5-7:41
@@ -186,6 +192,8 @@ MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\cac
 MERGED from [com.google.firebase:firebase-auth:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\7df3f99c40cb801e39e06effac81b94a\AndroidManifest.xml:21:5-44
 MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d1aefe43c7b04322aa420f8b58e6e9b2\AndroidManifest.xml:19:5-21:41
 MERGED from [com.google.firebase:firebase-database:19.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\d1aefe43c7b04322aa420f8b58e6e9b2\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\791acd4ed1e6e6af172a4f6e39550155\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\791acd4ed1e6e6af172a4f6e39550155\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\4ac379de677f356a7d50924838cd590c\AndroidManifest.xml:20:5-44
@@ -220,12 +228,12 @@ MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dora
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6199f19441e277691e463a7753a63da6\AndroidManifest.xml:20:5-44
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\caf90814f0e9ed2c9ac68bbaa0e976c1\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\caf90814f0e9ed2c9ac68bbaa0e976c1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\42a16203998122d8d1dc61b5d3f6ca30\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\2a2e7b2d4a56c8eeefb03f3897633486\AndroidManifest.xml:20:5-44
 MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\2a2e7b2d4a56c8eeefb03f3897633486\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\088706cab9435d01523ceb6ff8306601\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6b128571ef802acddf61424142767532\AndroidManifest.xml:20:5-44
 MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\6b128571ef802acddf61424142767532\AndroidManifest.xml:20:5-44
 MERGED from [androidx.loader:loader:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\9ade90c6097bcc66aaf154b4659e6535\AndroidManifest.xml:20:5-44
@@ -236,8 +244,6 @@ MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dor
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\db109db402b1e1460c8b04eff5f14658\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8ed3bc32c1b762692fd144c662187248\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\8ed3bc32c1b762692fd144c662187248\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\475be400071abebdc0945a186c53e9b2\AndroidManifest.xml:20:5-44
 MERGED from [androidx.core:core:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\685d41f765186419b69de24335e0d738\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.core:core:1.1.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\685d41f765186419b69de24335e0d738\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Dora\.gradle\caches\transforms-2\files-2.1\0c1e5b58a65dfd850b78a0e8a42e114c\AndroidManifest.xml:20:5-44

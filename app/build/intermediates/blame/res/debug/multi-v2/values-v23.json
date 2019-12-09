@@ -4,6 +4,25 @@
             "outputFile": "C:\\Users\\Dora\\Desktop\\EPetrol\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
+                    "source": "C:\\Users\\Dora\\.gradle\\caches\\transforms-2\\files-2.1\\96428469f492bdb60aab70aab8e3b98b\\res\\values-v23\\values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "48",
+                        "startColumns": "4",
+                        "startOffsets": "3407",
+                        "endLines": "50",
+                        "endColumns": "12",
+                        "endOffsets": "3552"
+                    }
+                },
+                {
                     "source": "C:\\Users\\Dora\\.gradle\\caches\\transforms-2\\files-2.1\\7e3436da9029275b269844747e7fc325\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,37,41,42,43,44",
