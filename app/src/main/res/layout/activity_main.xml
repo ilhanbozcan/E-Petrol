@@ -20,7 +20,7 @@
         android:layout_weight="1"
         android:paddingLeft="50dp"
         android:paddingTop="30dp"
-        app:srcCompat="@mipmap/fuel_image_foreground" />
+        app:srcCompat="@mipmap/ic_launcher_foreground" />
 
 
 
@@ -44,11 +44,11 @@
             android:layout_height="wrap_content"
             android:background="@drawable/textinputshape"
             android:ems="10"
-            android:drawableLeft="@drawable/mail_icon"
+            android:drawableLeft="@drawable/ic_email_black_24dp"
             android:drawablePadding="8dp"
             android:hint="example@gmail.com"
             android:inputType="textPersonName"
-             />
+            />
 
         <EditText
             android:layout_marginHorizontal="30dp"
@@ -59,10 +59,10 @@
             android:background="@drawable/textinputshape"
             android:ems="10"
             android:hint="Password"
-            android:drawableLeft="@drawable/pass_icon"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
             android:drawablePadding="8dp"
             android:inputType="textPassword"
-             />
+            />
 
         <Button
             android:textColor="#FFFFFF"
@@ -83,24 +83,24 @@
             android:layout_gravity="center"
             android:layout_marginTop="20dp"
             >
-        <TextView
+            <TextView
 
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Don't have a account yet?"
-            android:layout_gravity="center"/>
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Don't have a account yet?"
+                android:layout_gravity="center"/>
 
-        <Button
-            android:textColor="#00acee"
-            android:layout_marginHorizontal="30dp"
-            android:layout_marginVertical="8dp"
-            android:id="@+id/sign_button"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:background="@android:color/transparent"
-            android:text="SIGN UP"
-            />
+            <Button
+                android:textColor="#00acee"
+                android:layout_marginHorizontal="30dp"
+                android:layout_marginVertical="8dp"
+                android:id="@+id/sign_button"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@android:color/transparent"
+                android:text="SIGN UP"
+                />
         </LinearLayout>
 
 
