@@ -740,6 +740,7 @@ drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable butonnot
 drawable buttonhome
+drawable buttonshape
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -761,10 +762,12 @@ drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
+drawable ic_email_black_24dp
 drawable ic_equalizer_black_24dp
 drawable ic_fiber_manual_record_black_24dp
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_lock_black_24dp
 drawable ic_person_black_24dp
 drawable ic_whatshot_black_24dp
 drawable notification_action_background
@@ -779,6 +782,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable textinputshape
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -853,7 +857,6 @@ id auto
 id avarage
 id back
 id barrier
-id baslik
 id beginning
 id blocking
 id bottom
@@ -893,7 +896,6 @@ id first
 id forever
 id fueltype
 id general
-id girisyap
 id gmail
 id gone
 id group_divider
@@ -934,7 +936,6 @@ id multiply
 id nameSurname
 id nearby
 id never
-id noaccount_button
 id none
 id normal
 id notification_background
@@ -1086,6 +1087,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
+mipmap ic_launcher_foreground
 mipmap ic_launcher_round
 mipmap map_round
 string abc_action_bar_home_description

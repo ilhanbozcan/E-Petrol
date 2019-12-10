@@ -26,6 +26,8 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Stack;
+
 //Database boş olduğundan hata veriyor.!!!!!!!!!!!!!!!!!!!!!
 public class History extends AppCompatActivity {
     ArrayList<Posts> list=new ArrayList<>();
@@ -38,8 +40,10 @@ public class History extends AppCompatActivity {
     FirebaseDatabase database=FirebaseDatabase.getInstance();
     final FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
     DatabaseReference read=database.getReference("Users").child(user.getDisplayName()).child("information");
+    DatabaseReference his=database.getReference("Users").child(user.getDisplayName());
     DatabaseReference myRef = database.getReference();
-    DatabaseReference Ref=database.getReference("Users").child(user.getDisplayName()).child("History").child(myRef.getKey());
+    String key=myRef.push().getKey();
+
 
     Date date=new Date();
     DateFormat df = new SimpleDateFormat("yyyy/MM/dd");
@@ -47,11 +51,10 @@ public class History extends AppCompatActivity {
     Spinner favMark;
     int avrg=0;
 
-    public void CreateHistory(String mark,String fuel,String date){
-        Posts post=new Posts(mark,fuel,date);
+    public void CreateHistory(String mark,String fuel,String date,String day,String month,String year){
+        Posts post=new Posts(mark,fuel,date,day,month,year);
         String keys=myRef.getKey();
-
-        myRef.child("Users").child(user.getDisplayName()).child("History").child(keys).setValue(post);
+        myRef.child("Users").child(user.getDisplayName()).child("History").child(key).setValue(post);
     }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -75,7 +78,10 @@ public class History extends AppCompatActivity {
                 String dates;
                 int a=c.get(Calendar.MONTH)+1;
                 dates=c.get(Calendar.DAY_OF_MONTH)+"."+a+"."+c.get(Calendar.YEAR);
-                CreateHistory(favMarka,litre,dates);
+                String day=c.get(Calendar.DAY_OF_MONTH)+"";
+                String month=c.get(Calendar.MONTH)+"";
+                String year=c.get(Calendar.YEAR)+"";
+                CreateHistory(favMarka,litre,dates,day,month,year);
             }
         });
 
@@ -89,7 +95,6 @@ public class History extends AppCompatActivity {
                     Users i=new Users();
                     i=dataSnapshot.getValue(Users.class);
                     favfuel.setText("Favourite Brand= "+i.getFavmark());
-                    System.out.println(i.getFavmark());
 
                 }
             }
@@ -99,14 +104,33 @@ public class History extends AppCompatActivity {
 
             }
         });
-        Ref.addListenerForSingleValueEvent(new ValueEventListener() {
+        his.addListenerForSingleValueEvent(new ValueEventListener() {
             @Override
             public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
-                    Posts i=new Posts();
-                    i=dataSnapshot.getValue(Posts.class);
-                    AddList(i.date,i.mark,i.liter);
+                if(dataSnapshot.hasChild("History")){
+                    DatabaseReference Ref=database.getReference("Users").child(user.getDisplayName()).child("History");
+                    Ref.addListenerForSingleValueEvent(new ValueEventListener() {
+
+                        @Override
+                        public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+                            for(DataSnapshot data:dataSnapshot.getChildren()){
+                                Posts i=new Posts();
+                                i=data.getValue(Posts.class);
+                                AddList(i.mark,i.date,i.liter);
+                                //calculateAvarage(i.month);
 
 
+
+                            }
+                        }
+
+                        @Override
+                        public void onCancelled(@NonNull DatabaseError databaseError) {
+
+                        }
+                    });
+
+                }
 
             }
 
@@ -115,6 +139,7 @@ public class History extends AppCompatActivity {
 
             }
         });
+
         recyclerView=findViewById(R.id.anamenü);
         LinearLayoutManager layoutManager=new LinearLayoutManager(context);
         layoutManager.setOrientation(LinearLayoutManager.VERTICAL);
@@ -129,6 +154,11 @@ public class History extends AppCompatActivity {
         list.add(new Posts(x,v,y));
         ListAdapter listAdapter=new ListAdapter(list,context);
         recyclerView.setAdapter(listAdapter);
+
+
+
+    }
+    public void calculateAvarage(String a){
 
 
 
